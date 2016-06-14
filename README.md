@@ -5,7 +5,7 @@
 <br>
 <b>Example screenshots of our completed game.</b><br><br>
 
-![Alt text](https://github.com/AngelC21/AngelStopwatch/blob/master/screenshots/Capture.JPG "Tanks Start Screen")
+![Alt text](https://github.com/AngelC21/UnityTanks/blob/master/Capture.JPG "Tanks Start Screen")
 <br><br>
 
 ![Alt text](https://github.com/AngelC21/AngelStopwatch/blob/master/screenshots/Capture2.JPG "Play Mode")
