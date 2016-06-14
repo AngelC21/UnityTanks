@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{500F05E5-FB70-B028-D34D-1481EF924F4F}") = "Tanks-Angel", "Assembly-CSharp-firstpass.csproj", "{37B834A0-9DC9-A92C-7AC7-D3BFCE7C7EFA}"
+EndProject
+Project("{500F05E5-FB70-B028-D34D-1481EF924F4F}") = "Tanks-Angel", "Assembly-CSharp.csproj", "{C1A61A6C-3939-2AA0-EE6C-3DE28A91AE1D}"
+EndProject
+Project("{500F05E5-FB70-B028-D34D-1481EF924F4F}") = "Tanks-Angel", "Assembly-CSharp-Editor.csproj", "{BA68049D-C7EF-5373-6781-C03A62F3E197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B834A0-9DC9-A92C-7AC7-D3BFCE7C7EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B834A0-9DC9-A92C-7AC7-D3BFCE7C7EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B834A0-9DC9-A92C-7AC7-D3BFCE7C7EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B834A0-9DC9-A92C-7AC7-D3BFCE7C7EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A61A6C-3939-2AA0-EE6C-3DE28A91AE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A61A6C-3939-2AA0-EE6C-3DE28A91AE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A61A6C-3939-2AA0-EE6C-3DE28A91AE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A61A6C-3939-2AA0-EE6C-3DE28A91AE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA68049D-C7EF-5373-6781-C03A62F3E197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA68049D-C7EF-5373-6781-C03A62F3E197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA68049D-C7EF-5373-6781-C03A62F3E197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA68049D-C7EF-5373-6781-C03A62F3E197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
